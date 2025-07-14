@@ -18,7 +18,7 @@ Please make sure that ssh is in your PATH or to install ssh with your distributi
 
 ### Windows
 
-It depends on your version of windows how and if you have to install a terminal and/or a ssh client. Typically, [putty](http://www.putty.org), [bitvise SSH](https://www.bitvise.com/ssh-client-download) or [mRemoteNG](https://mremoteng.org/) are a good choices.
+It depends on your version of windows how and if you have to install a terminal and/or a ssh client. Typically, [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/), [bitvise SSH](https://www.bitvise.com/ssh-client-download) or [mRemoteNG](https://mremoteng.org/) are a good choices.
 
 
 ## Logging in
